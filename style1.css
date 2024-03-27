@@ -1,0 +1,62 @@
+body {
+    font-family: Arial, sans-serif;
+    background-image:linear-gradient(rgba(0, 0, 0, 0.6),rgba(0,0,0,0.7)),url(image3/202978.jpg);
+     background-position: center;
+     background-size: cover;
+     width: 100%;
+     height: 100vh;
+}
+
+header{
+    color: white;
+    text-align: center;
+     padding: 20px; 
+}
+
+.about {
+    color: #fff;
+    position: absolute; 
+    left: 15%;
+    top: 15%;
+}
+
+.projects { 
+    color: #fff;
+    position: absolute;
+    top: 30%;
+    left:15%;
+} 
+
+.contact h2 {
+    position: absolute;
+    color: #fff;
+    left: 15%;
+    top: 70%;
+
+}
+ .contact p{
+    position: absolute;
+    color: #fff;
+    left: 15%;
+    top:75%;
+
+} 
+.contact p1{
+    position: absolute;
+    color: #fff;
+    top:80%;
+   left: 15%;
+}
+.contact p2{
+    position: absolute;
+    color: #fff;
+    top:83%;
+    left: 15%;
+}
+.c{
+    color: #fff;
+    position: absolute;
+    top: 95%;
+    text-align: center;
+    left: 40%;
+}
